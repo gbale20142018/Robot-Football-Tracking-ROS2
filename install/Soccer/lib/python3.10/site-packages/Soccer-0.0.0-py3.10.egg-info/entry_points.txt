@@ -1,0 +1,4 @@
+[console_scripts]
+balltracker = Soccer.balltracker:main
+color_tracker = Soccer.color_tracker:main
+

@@ -1,0 +1,17 @@
+package.xml
+setup.cfg
+setup.py
+Soccer/__init__.py
+Soccer/balltracker.py
+Soccer/color_tracker.py
+build/Soccer/Soccer.egg-info/PKG-INFO
+build/Soccer/Soccer.egg-info/SOURCES.txt
+build/Soccer/Soccer.egg-info/dependency_links.txt
+build/Soccer/Soccer.egg-info/entry_points.txt
+build/Soccer/Soccer.egg-info/requires.txt
+build/Soccer/Soccer.egg-info/top_level.txt
+build/Soccer/Soccer.egg-info/zip-safe
+resource/Soccer
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
